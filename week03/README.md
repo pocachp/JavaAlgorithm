@@ -4,7 +4,7 @@
 
 | 문제                 | 답안                | 
 | -------------------- | ------------------- | 
-| [쿠폰](https://www.acmicpc.net/problem/10179) | [첫번째](week03/bj_10189_ksj.java) |
+| [쿠폰](https://www.acmicpc.net/problem/10179) | [첫번째](JavaAlgorithm/week03/bj_10189_ksj.java) |
 | [세 수](https://www.acmicpc.net/problem/10817) | [두번째](week03/bj_10817_ksj.java) |
 | [369](https://www.acmicpc.net/problem/17614) | [세번째](week03/bj_17614_ksj.java) |
 | [헛간 청약](https://www.acmicpc.net/problem/19698) | [네번째](week03/bj_19698_ksj.java) |
