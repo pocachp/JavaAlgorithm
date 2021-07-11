@@ -4,20 +4,20 @@
 
 | 문제                 | 답안                | 
 | -------------------- | ------------------- | 
-| [쿠폰](https://www.acmicpc.net/problem/10179) | [첫번째](JavaAlgorithm/week03/bj_10189_ksj.java) |
-| [세 수](https://www.acmicpc.net/problem/10817) | [두번째](week03/bj_10817_ksj.java) |
-| [369](https://www.acmicpc.net/problem/17614) | [세번째](week03/bj_17614_ksj.java) |
-| [헛간 청약](https://www.acmicpc.net/problem/19698) | [네번째](week03/bj_19698_ksj.java) |
-| [R2](https://www.acmicpc.net/problem/3046) | [다섯번째](week03/bj_3046_ksj.java) |
+| [쿠폰](https://www.acmicpc.net/problem/10179) | [첫번째](bj_10189_ksj.java) |
+| [세 수](https://www.acmicpc.net/problem/10817) | [두번째](bj_10817_ksj.java) |
+| [369](https://www.acmicpc.net/problem/17614) | [세번째](bj_17614_ksj.java) |
+| [헛간 청약](https://www.acmicpc.net/problem/19698) | [네번째](bj_19698_ksj.java) |
+| [R2](https://www.acmicpc.net/problem/3046) | [다섯번째](bj_3046_ksj.java) |
 
 ## 2일차 0707 수
 
 | 문제                 | 답안                | 
 | -------------------- | ------------------- | 
-| [과자](https://www.acmicpc.net/problem/10156) | [첫번째](week03/bj_10156_ksj.java) |
-| [알파벳 개수](https://www.acmicpc.net/problem/10808) | [두번째](week03/bj_10808_ksj.java) |
-| [팀 나누기](https://www.acmicpc.net/problem/13866) | [세번째](week03/bj_13866_ksj.java) |
-| [세수정렬](https://www.acmicpc.net/problem/2752) | [네번째](week03/bj_2752_ksj.java) |
+| [과자](https://www.acmicpc.net/problem/10156) | [첫번째](bj_10156_ksj.java) |
+| [알파벳 개수](https://www.acmicpc.net/problem/10808) | [두번째](bj_10808_ksj.java) |
+| [팀 나누기](https://www.acmicpc.net/problem/13866) | [세번째](bj_13866_ksj.java) |
+| [세수정렬](https://www.acmicpc.net/problem/2752) | [네번째](bj_2752_ksj.java) |
 
 ## 3일차 0708 목
 
